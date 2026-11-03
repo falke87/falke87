@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi
 
-<!--
-**falke87/falke87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build cross-platform desktop applications in C++ and Qt — the kind that
+ship to real users and have to stay correct over years.
 
-Here are some ideas to get you started:
+More than ten years of professional experience in Germany, across tax and
+finance software, scientific data analysis and archiving systems. I work
+across the full cycle: specification, design, implementation, unit tests
+and technical documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Everything here is written to be read: a README that explains what the
+program does, a screenshot, build instructions, and tests that run with
+one command.
+
+### Tools
+
+C++ (11/14/17) · Qt 5/6 · QML · CMake · Qt Test · Python · SQLite ·
+Git, SVN, Perforce · Linux, Windows, macOS
